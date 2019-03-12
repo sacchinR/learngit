@@ -11,6 +11,7 @@
 	<groupId>com.learn.springboot</groupId>
 	<artifactId>thymeleafdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>thymeleafdemo</name>
 	<description>Demo project for Spring Boot</description>
 	
